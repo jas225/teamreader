@@ -34,6 +34,10 @@ end
 
 gem 'devise', '~> 3.2.4'
 
+gem 'pry'
+gem 'better_errors'
+gem 'binding_of_caller'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
